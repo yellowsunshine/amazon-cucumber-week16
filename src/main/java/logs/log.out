@@ -1,0 +1,39 @@
+2021-12-23 19:12:781 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 19:12:558 INFO  HomePage :31 - Entering data in the search box :Laptop<br>
+2021-12-23 19:12:990 INFO  HomePage :37 - Clicking on the search button :[[ChromeDriver: chrome on WINDOWS (d0da439fc69d6c1ad2d7311013df470e)] -> id: nav-search-submit-button]<br>
+2021-12-23 19:12:50 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 19:12:115 INFO  HomePage :31 - Entering data in the search box :Laptop<br>
+2021-12-23 19:12:206 INFO  HomePage :37 - Clicking on the search button :[[ChromeDriver: chrome on WINDOWS (489eb9e425f6aef4594fb31002d5565a)] -> id: nav-search-submit-button]<br>
+2021-12-23 20:12:389 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:862 INFO  HomePage :31 - Entering data in the search box :Laptop<br>
+2021-12-23 20:12:326 INFO  HomePage :37 - Clicking on the search button :[[ChromeDriver: chrome on WINDOWS (49c210c9e04f1fc0530e6dd2fa72a3d6)] -> id: nav-search-submit-button]<br>
+2021-12-23 20:12:939 INFO  SelectedProductPage :30 - Selecting quantity :3
+2021-12-23 20:12:371 INFO  SelectedProductPage :36 - Click on the add to cart button :[[ChromeDriver: chrome on WINDOWS (49c210c9e04f1fc0530e6dd2fa72a3d6)] -> id: add-to-cart-button]<br>
+2021-12-23 20:12:419 INFO  AddToCartPage :29 - Verifying the Added To Cart Message :
+2021-12-23 20:12:665 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:936 INFO  HomePage :31 - Entering data in the search box :Laptop<br>
+2021-12-23 20:12:267 INFO  HomePage :37 - Clicking on the search button :[[ChromeDriver: chrome on WINDOWS (dd6549eb7606ec3770c60e6597326429)] -> id: nav-search-submit-button]<br>
+2021-12-23 20:12:119 INFO  SelectedProductPage :30 - Selecting quantity :3
+2021-12-23 20:12:567 INFO  SelectedProductPage :36 - Click on the add to cart button :[[ChromeDriver: chrome on WINDOWS (dd6549eb7606ec3770c60e6597326429)] -> id: add-to-cart-button]<br>
+2021-12-23 20:12:260 INFO  AddToCartPage :29 - Verifying the Added To Cart Message :
+2021-12-23 20:12:528 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:937 INFO  HomePage :31 - Entering data in the search box :Mobile Phone<br>
+2021-12-23 20:12:460 INFO  HomePage :37 - Clicking on the search button :[[ChromeDriver: chrome on WINDOWS (5618a6eabeacfab9e8fad0b7249f72c7)] -> id: nav-search-submit-button]<br>
+2021-12-23 20:12:574 INFO  SelectedProductPage :30 - Selecting quantity :2
+2021-12-23 20:12:155 INFO  SelectedProductPage :36 - Click on the add to cart button :[[ChromeDriver: chrome on WINDOWS (5618a6eabeacfab9e8fad0b7249f72c7)] -> id: add-to-cart-button]<br>
+2021-12-23 20:12:354 INFO  AddToCartPage :29 - Verifying the Added To Cart Message :Added to Cart
+2021-12-23 20:12:277 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:37 INFO  HomePage :31 - Entering data in the search box :Laptop<br>
+2021-12-23 20:12:112 INFO  HomePage :37 - Clicking on the search button :[[ChromeDriver: chrome on WINDOWS (d16f0e70a7b65dbc53c8dd88585c8a13)] -> id: nav-search-submit-button]<br>
+2021-12-23 20:12:565 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:182 INFO  HomePage :31 - Entering data in the search box :Laptop<br>
+2021-12-23 20:12:425 INFO  HomePage :37 - Clicking on the search button :[[ChromeDriver: chrome on WINDOWS (68a3a48a6ae86131f9fbfa731b8b06e7)] -> id: nav-search-submit-button]<br>
+2021-12-23 20:12:89 INFO  SelectedProductPage :30 - Selecting quantity :3
+2021-12-23 20:12:555 INFO  SelectedProductPage :36 - Click on the add to cart button :[[ChromeDriver: chrome on WINDOWS (68a3a48a6ae86131f9fbfa731b8b06e7)] -> id: add-to-cart-button]<br>
+2021-12-23 20:12:593 INFO  AddToCartPage :29 - Verifying the Added To Cart Message :
+2021-12-23 20:12:556 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:05 INFO  HomePage :31 - Entering data in the search box :Mobile Phone<br>
+2021-12-23 20:12:149 INFO  HomePage :37 - Clicking on the search button :[[ChromeDriver: chrome on WINDOWS (f9c90d28ae621b965660dde0fa855be3)] -> id: nav-search-submit-button]<br>
+2021-12-23 20:12:131 INFO  SelectedProductPage :30 - Selecting quantity :2
+2021-12-23 20:12:765 INFO  SelectedProductPage :36 - Click on the add to cart button :[[ChromeDriver: chrome on WINDOWS (f9c90d28ae621b965660dde0fa855be3)] -> id: add-to-cart-button]<br>
+2021-12-23 20:12:947 INFO  AddToCartPage :29 - Verifying the Added To Cart Message :Added to Cart
